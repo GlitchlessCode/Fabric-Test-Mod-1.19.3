@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "" : {
+            "model": "fabrictestmod:block/general_material_block"
+        }
+    }
+}

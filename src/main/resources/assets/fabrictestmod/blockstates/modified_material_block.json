@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "" : {
+            "model": "fabrictestmod:block/modified_material_block"
+        }
+    }
+}

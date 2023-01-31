@@ -1,0 +1,9 @@
+{
+    "item.fabrictestmod.general_material": "General Material",
+    "item.fabrictestmod.modified_material": "Modified Material",
+
+    "block.fabrictestmod.general_material_block": "General Material Block",
+    "block.fabrictestmod.modified_material_block": "Modified Material Block",
+
+    "itemgroup.materials": "Construction Materials"
+}
